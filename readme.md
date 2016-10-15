@@ -14,6 +14,12 @@ scripts
 
 You can run `npm` to run all the test as well as the server commands. 
 
+**Starting the server** 
+
+Run `npm run start` command.
+
+It will start the socket.io server on port 8090 and start to listen for remote actions. 
+
 **Running Tests:**
 
 Run all unit test with `npm run test` command. 
